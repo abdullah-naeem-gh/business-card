@@ -1,0 +1,32 @@
+.body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+:hover {
+    background-color: rgb(179, 74, 74);
+}
+
+.main {
+    
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    width: 400px;
+    background: #ddebf8;
+    border-bottom: solid 6px #d8cefe;
+    color: black;
+    
+}   
+
+
+.picture {
+    width: 150px;
+}
+
+
+
+.details {
+    text-align: center;
+}
